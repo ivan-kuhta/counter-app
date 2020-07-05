@@ -29,7 +29,7 @@ body{
     align-items: center;
 }
 .counter {
-    width: 169px;
+    width: auto;
     height: 176px;
     
     font-family: Roboto;
